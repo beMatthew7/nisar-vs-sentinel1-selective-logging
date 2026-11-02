@@ -1,0 +1,41 @@
+Total alerts: 464,323  (2016-08-02 -> 2026-10-16)
+Columns: FID, CLASSNAME, QUADRANT, PATH_ROW, VIEW_DATE, SENSOR, SATELLITE, AREAUCKM, UC, AREAMUNKM, MUNICIPALI, GEOCODIBGE, UF
+
+Alerts per class:
+CLASSNAME
+DESMATAMENTO_CR         272729
+CICATRIZ_DE_QUEIMADA    119574
+DEGRADACAO               40590
+DESMATAMENTO_VEG          9974
+MINERACAO                 8854
+CS_DESORDENADO            7017
+CS_GEOMETRICO             5584
+CORTE_SELETIVO               1
+
+Selective logging: 12,601 polygons, 32,399 km2
+Area of a selective-logging polygon (km2): median 1.54, min 0.000, max 60.3
+
+Satellites behind the selective-logging alerts:
+SATELLITE
+AMAZONIA-1       5968
+CBERS-4          4903
+CBERS-4A          957
+RESOURCESAT-2     773
+
+States with most selective logging:
+UF
+MT    6938
+PA    3548
+AM     707
+RO     694
+AC     517
+
+Study area (-49.0, -4.5, -47.0, -2.5): 181 selective-logging polygons after 2026-06-17
+CLASSNAME  CS_DESORDENADO  CS_GEOMETRICO
+month                                   
+2026-06                 0              1
+2026-07                21             39
+2026-08                64              9
+2026-09                36              8
+2026-10                 3              0
+Median polygon area in the study area: 1.23 km2
